@@ -1,4 +1,5 @@
 # sample
-first repo
+First repo
 <br>
-author - kaadi
+Author : kaadi
+
